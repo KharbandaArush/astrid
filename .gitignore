@@ -5,3 +5,6 @@ build/
 *.apk
 local.properties
 Thumbs.db
+.idea/*
+dav4android/
+ical4android/
